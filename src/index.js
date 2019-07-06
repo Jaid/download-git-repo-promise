@@ -1,12 +1,9 @@
 /** @module download-git-repo-promise */
 
+import downloadGitRepo from "download-git-repo"
+import pify from "pify"
+
 /**
- * Returns the number of seconds passed since Unix epoch (01 January 1970)
- * @example
- * import downloadGitRepoPromise from "download-git-repo-promise"
- * const result = downloadGitRepoPromise()
- * result === 1549410770
- * @function
- * @returns {number} Seconds since epoch
+ * Returns a promisied version of `download-git-repo`
  */
-export default () => Math.floor(Date.now() / 1000)
+export default pify(downloadGitRepo)
