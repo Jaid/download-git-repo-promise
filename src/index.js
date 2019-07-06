@@ -1,4 +1,4 @@
-/** @module download-git-repo-promise */
+/** @module fetch-git-repo */
 
 import downloadGitRepo from "download-git-repo"
 import pify from "pify"
