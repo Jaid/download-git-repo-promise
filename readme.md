@@ -1,31 +1,68 @@
 # fetch-git-repo
 
 
-Promise wrapper for npm package download-git-repo.
+<a href="https://raw.githubusercontent.com/Jaid/fetch-git-repo/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/fetch-git-repo?style=flat-square" alt="License"/></a>  
+<a href="https://actions-badge.atrox.dev/Jaid/fetch-git-repo/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Ffetch-git-repo%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/fetch-git-repo/commits"><img src="https://img.shields.io/github/commits-since/Jaid/fetch-git-repo/v2.0.0?style=flat-square&logo=github" alt="Commits since v2.0.0"/></a> <a href="https://github.com/Jaid/fetch-git-repo/commits"><img src="https://img.shields.io/github/last-commit/Jaid/fetch-git-repo?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/fetch-git-repo/issues"><img src="https://img.shields.io/github/issues/Jaid/fetch-git-repo?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/fetch-git-repo"><img src="https://img.shields.io/npm/v/fetch-git-repo?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/fetch-git-repo/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/fetch-git-repo?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/fetch-git-repo"><img src="https://img.shields.io/npm/dm/fetch-git-repo?style=flat-square&logo=npm" alt="Downloads"/></a>
+
+**Promise wrapper for npm package download-git-repo.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Installation
-<a href='https://npmjs.com/package/fetch-git-repo'><img alt='npm logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/npm.png'/></a>
+<a href="https://npmjs.com/package/fetch-git-repo"><img src="https://img.shields.io/badge/npm-fetch--git--repo-C23039?style=flat-square&logo=npm" alt="fetch-git-repo on npm"/></a>
 ```bash
 npm install --save fetch-git-repo@^2.0.0
 ```
-<a href='https://yarnpkg.com/package/fetch-git-repo'><img alt='Yarn logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/yarn.png'/></a>
+<a href="https://yarnpkg.com/package/fetch-git-repo"><img src="https://img.shields.io/badge/Yarn-fetch--git--repo-2F8CB7?style=flat-square&logo=yarn&logoColor=white" alt="fetch-git-repo on Yarn"/></a>
 ```bash
 yarn add fetch-git-repo@^2.0.0
 ```
 
 
 
-## Documentation
-Returns a promisied version of `download-git-repo`
 
-**Kind**: Exported member  
+
+
+
+
+## Development
+
+
+
+Setting up:
+```bash
+git clone git@github.com:Jaid/fetch-git-repo.git
+cd fetch-git-repo
+npm install
+```
+Testing:
+```bash
+npm run test:dev
+```
+Testing in production environment:
+```bash
+npm run test
+```
 
 
 ## License
 ```text
 MIT License
 
-Copyright © 2019, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
+Copyright © 2020, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
