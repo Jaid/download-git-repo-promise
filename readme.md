@@ -1,9 +1,9 @@
 # fetch-git-repo
 
 
-<a href="https://raw.githubusercontent.com/Jaid/fetch-git-repo/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/fetch-git-repo?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/fetch-git-repo/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Ffetch-git-repo%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/fetch-git-repo/commits"><img src="https://img.shields.io/github/commits-since/Jaid/fetch-git-repo/v2.0.0?style=flat-square&logo=github" alt="Commits since v2.0.0"/></a> <a href="https://github.com/Jaid/fetch-git-repo/commits"><img src="https://img.shields.io/github/last-commit/Jaid/fetch-git-repo?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/fetch-git-repo/issues"><img src="https://img.shields.io/github/issues/Jaid/fetch-git-repo?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/fetch-git-repo"><img src="https://img.shields.io/npm/v/fetch-git-repo?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/fetch-git-repo/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/fetch-git-repo?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/fetch-git-repo"><img src="https://img.shields.io/npm/dm/fetch-git-repo?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/fetch-git-repo/master/license.txt"><img src="https://img.shields.io/github/license/jaid/fetch-git-repo?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor fetch-git-repo"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/fetch-git-repo/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Ffetch-git-repo%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/fetch-git-repo/commits"><img src="https://img.shields.io/github/commits-since/jaid/fetch-git-repo/v2.0.0?style=flat-square&logo=github" alt="Commits since v2.0.0"/></a> <a href="https://github.com/jaid/fetch-git-repo/commits"><img src="https://img.shields.io/github/last-commit/jaid/fetch-git-repo?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/fetch-git-repo/issues"><img src="https://img.shields.io/github/issues/jaid/fetch-git-repo?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/fetch-git-repo"><img src="https://img.shields.io/npm/v/fetch-git-repo?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/fetch-git-repo/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/fetch-git-repo?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/fetch-git-repo"><img src="https://img.shields.io/npm/dm/fetch-git-repo?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **Promise wrapper for npm package download-git-repo.**
 
@@ -37,14 +37,13 @@ yarn add fetch-git-repo@^2.0.0
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/fetch-git-repo.git
+git clone git@github.com:jaid/fetch-git-repo.git
 cd fetch-git-repo
 npm install
 ```
