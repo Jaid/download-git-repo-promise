@@ -33,5 +33,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "fetch-git-repo",
-  "description": "Promise wrapper for npm package download-git-repo."
+  "description": "Promise wrapper for npm package download-git-repo.",
+  "funding": "https://github.com/sponsors/jaid"
 }
