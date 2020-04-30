@@ -39,5 +39,20 @@
     "url": "https://github.com/jaid/fetch-git-repo"
   },
   "homepage": "https://github.com/Jaid/fetch-git-repo",
-  "keywords": []
+  "keywords": [
+    "download-git-repo",
+    "download-repo",
+    "fetch",
+    "git",
+    "git-fetch",
+    "github",
+    "github-api",
+    "lib",
+    "library",
+    "promise",
+    "repository",
+    "util",
+    "utility",
+    "wrapper"
+  ]
 }
